@@ -1,4 +1,4 @@
-# dsh-skill-forge
+# dsh-skillforge
 
 DSH（DeepSeek Harness）技能与扩展中心 —— 一个插件统一管理技能的完整生命周期，并附带 MCP 服务器管理。
 
