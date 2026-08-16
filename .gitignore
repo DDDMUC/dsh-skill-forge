@@ -1,0 +1,7 @@
+node_modules/
+*.bak*
+*.log
+.DS_Store
+test/tmp-*
+# Internal design notes (contains third-party comparisons) — not published
+DESIGN.md
