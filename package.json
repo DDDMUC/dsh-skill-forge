@@ -2,7 +2,7 @@
   "name": "dsh-skillforge",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DDDMUC/dsh-skillforge.git"
+    "url": "git+https://github.com/DDDMUC/dsh-skill-forge.git"
   },
   "description": "DSH 技能与扩展中心：目录/遮蔽+重命名双机制启停/规范检查/CRUD/导入导出/技能市场/MCP 真连接/按对话加载/设置页 UI",
   "version": "0.1.0",
